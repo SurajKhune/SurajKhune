@@ -7,5 +7,3 @@
  * 📫 Reach me by my personal email id surajkhune007@gmail.com
  
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=SurajKhune">
