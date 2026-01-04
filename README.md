@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Suraj Khune  
-### AI/ML Engineer | Python Automation | Generative AI | Data Engineering
+### Data Analyst | Python Automation | Generative AI | Power BI
 
 I’m an AI/ML Engineer with experience building **end-to-end automation systems**, **LLM applications**, and **machine learning models** for real-world operational use cases.  
 My work focuses on combining **AI, automation, and data engineering** to create scalable solutions that improve efficiency and decision-making.
